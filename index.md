@@ -9,7 +9,11 @@ Programming Projects
 ---
 ### [Web Crawler / Balance Checker | CSCI 315](https://github.com/Kaigan90/Web-Crawl-Project)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![myTest.html](images/Web Crawl Project/Capture.PNG)
+![myTest2.html](images/Web Crawl Project/Capture1.PNG)
+![myTest3.html](images/Web Crawl Project/Capture2.PNG)
+![myTest4.html](images/Web Crawl Project/Capture3.PNG)
+![Test Run of myTest](images/Web Crawl Project/Test Run.PNG)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
