@@ -16,9 +16,12 @@ Programming Projects
 ![Test Run of myTest](images/Web Crawl Project/Test Run.PNG)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Balanced Binary Search Tree Comparison | CSCI 315](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![insert](images/Binary Search/insert.PNG)
+![delete](images/Binary Search/delete.PNG)
+![search](images/Binary Search/search.PNG)
+![searchSame](images/Binary Search/searchSame.PNG)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
