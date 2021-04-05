@@ -24,7 +24,7 @@ Programming Projects
 ![searchSame](images/Binary Search/searchSame.PNG)
 
 ---
-### [Priority Queue | CSCI 315](project1)
+### [Priority Queue | CSCI 315](project3)
 
 ![test run](images/PriorityQ.PNG)
 
