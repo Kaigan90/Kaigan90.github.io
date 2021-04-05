@@ -1,44 +1,33 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Web Crawl / Balance Checker
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:CSCI 315 Data Structures** 
+-   **Grade: 100%**
+-   **Language(s):HTML, C++**
+-   **Source Code Repository:** [Web Crawl Project](https://github.com/Kaigan90/Web-Crawl-Project)  
+    (Please [email me](mailto:jwood11190@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A two part project that is an HTML parser that determines if the given HTML page is balanced.  The second part is a web crawler that determines how many total webpages can be reached from the given HTML via diving through the anchors.
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
-
+Program runs in command line, given makefile with source code the run routine is as follows:
 ```bash
-cd ./project
-python setup.py
+make
+./html-test pages/myTest.html
 ```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+Command line program, no UI design.
 
 ## 3. Additional Considerations
+Pages directory contains multiple HTML files in which the test can be performed.  
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Web Crawl Project](https://github.com/Kaigan90/Web-Crawl-Project).
 
 [Back to Portfolio](./)
