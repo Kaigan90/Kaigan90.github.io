@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:jwood11190@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Web Crawler / Balance Checker | CSCI 315](https://github.com/Kaigan90/Web-Crawl-Project)
+### [Web Crawler / Balance Checker | CSCI 315](project1)
 
 ![myTest.html](images/Web Crawl Project/Capture.PNG)
 ![myTest2.html](images/Web Crawl Project/Capture1.PNG)
