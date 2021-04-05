@@ -24,9 +24,9 @@ Programming Projects
 ![searchSame](images/Binary Search/searchSame.PNG)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Priority Queue | CSCI 315](project1)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![test run](images/PriorityQ.PNG)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
