@@ -29,7 +29,7 @@ Programming Projects
 ![test run](images/PriorityQ.PNG)
 
 ---
-### [Binary Heap and Heapsort | CSCI 315](project1)
+### [Binary Heap and Heapsort | CSCI 315](project4)
 
 ![test run](images/BinaryHeap.PNG)
 
