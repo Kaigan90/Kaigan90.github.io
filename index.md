@@ -29,9 +29,9 @@ Programming Projects
 ![test run](images/PriorityQ.PNG)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Binary Heap and Heapsort | CSCI 315](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![test run](images/BinaryHeap.PNG)
 
 ---
 
