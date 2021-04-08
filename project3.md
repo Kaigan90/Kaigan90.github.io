@@ -22,7 +22,7 @@ make
 
 ## UI Design
 
-Command line program, no UI design.
+Command line program.
 
 ## 3. Additional Considerations
 N/A
