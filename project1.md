@@ -24,6 +24,7 @@ make
 ## UI Design
 
 Command line program
+Sample HTML pages that program was tested on.
 ![myTest.html](images/Web Crawl Project/Capture.PNG)
 ![myTest2.html](images/Web Crawl Project/Capture1.PNG)
 ![myTest3.html](images/Web Crawl Project/Capture2.PNG)
