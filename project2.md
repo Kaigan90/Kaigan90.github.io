@@ -23,7 +23,13 @@ After data files have been collected for each function desired run performance p
 
 ## UI Design
 
-Command line program, no UI design.
+Command line program.<br/>
+Performance graphs for comparison between different functions using AVL and Splay methods.<br/>
+![insert](images/Binary Search/insert.PNG)
+![delete](images/Binary Search/delete.PNG)
+![search](images/Binary Search/search.PNG)
+![searchSame](images/Binary Search/searchSame.PNG)
+
 
 ## 3. Additional Considerations
 Performance may vary depending on hardware.
