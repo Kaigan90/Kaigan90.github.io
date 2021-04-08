@@ -14,10 +14,7 @@ Programming Projects
 ---
 ### [Balanced Binary Search Tree Comparison | CSCI 315](project2)
 
-![insert](images/Binary Search/insert.PNG)
-![delete](images/Binary Search/delete.PNG)
-![search](images/Binary Search/search.PNG)
-![searchSame](images/Binary Search/searchSame.PNG)
+![test run](images/Binary Search/Run.PNG)
 
 ---
 ### [Priority Queue | CSCI 315](project3)
