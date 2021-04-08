@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Computer-Science (class of 2023)
   <br /><br />
-  <a href="https://github.com/Kaigan90/Resume">View My Resume</a>
+  <a href="Resume.pdf">View My Resume</a>
 repository: "csci-csu/csci-portfolio"
 github_username:  Kaigan90 # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
