@@ -23,7 +23,11 @@ make
 
 ## UI Design
 
-Command line program, no UI design.
+Command line program
+![myTest.html](images/Web Crawl Project/Capture.PNG)
+![myTest2.html](images/Web Crawl Project/Capture1.PNG)
+![myTest3.html](images/Web Crawl Project/Capture2.PNG)
+![myTest4.html](images/Web Crawl Project/Capture4.PNG)
 
 ## 3. Additional Considerations
 Pages directory contains multiple HTML files in which the test can be performed.  
