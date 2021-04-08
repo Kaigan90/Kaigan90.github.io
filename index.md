@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Intellectual Property](Ethics Papers/Intellectual Property.docx)
+### [Intellectual Property](Ethics Papers/Intellectual Property.pdf)
 
 -   **Class: CSCI 332**  
 -   **Grade: 80%**
 
-### [Software Ethics](Ethics Papers/Software Ethics.docx)
+### [Software Ethics](Ethics Papers/Software Ethics.pdf)
 
 -   **Class: CSCI 325** 
 -   **Grade: 80%**
 
-### [Meme Ethics](Ethics Papers/meme ethics.docx)
+### [Meme Ethics](Ethics Papers/Meme Ethics.pdf)
 
 -   **Class: CSCI 330** 
 -   **Grade: 80%**
