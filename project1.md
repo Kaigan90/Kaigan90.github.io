@@ -23,7 +23,7 @@ make
 
 ## UI Design
 
-Command line program
+Command line program<br/>
 Sample HTML pages that program was tested on.
 ![myTest.html](images/Web Crawl Project/Capture.PNG)
 ![myTest2.html](images/Web Crawl Project/Capture1.PNG)
