@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Capstone Project - Fallout 76 Companion App](capstone)
 
-![Test Run of myTest](images/Web Crawl Project/Test Run.PNG)
+(images/FO76 Companion Hub.PNG)
 
 ---
 ### [Web Crawler / Balance Checker | CSCI 315](project1)
