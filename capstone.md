@@ -30,13 +30,13 @@ The result is a system that reduces friction, improves decision-making, and enha
 ## UI Design
 Sample pages pulled from the app
 
-![FO76 Companion App](images/FO76%Companion%Hub.png)
+![FO76 Companion App](images/FO76%20Companion%20Hub.png)
 
-![FO76 Companion App](images/FO76%Companion%Build%Sim.png)
+![FO76 Companion App](images/FO76%20Companion%20Build%20Sim.png)
 
-![FO76 Companion App](images/FO76%Companion%Daily%Tracker.png)
+![FO76 Companion App](images/FO76%20Companion%20Daily%20Tracker.png)
 
-![FO76 Companion App](images/FO76%Companion%Carto%Index.png)
+![FO76 Companion App](images/FO76%20Companion%20Carto%20Index.png)
 
 ## Document Defense
 
