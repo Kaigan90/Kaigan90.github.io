@@ -28,8 +28,6 @@ The result is a system that reduces friction, improves decision-making, and enha
 
 
 ## UI Design
-
-Command line program<br/>
 Sample pages pulled from the app
 
 ![FO76 Companion App](images/FO76%Companion%Hub.png)
@@ -40,7 +38,7 @@ Sample pages pulled from the app
 
 ![FO76 Companion App](images/FO76%Companion%Carto%Index.png)
 
-## Additional Considerations
+## Document Defense
 
 
 [Back to Portfolio](./)
