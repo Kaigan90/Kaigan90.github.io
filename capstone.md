@@ -29,6 +29,12 @@ The result is a system that reduces friction, improves decision-making, and enha
 
 ## UI Design
 
+Command line program<br/>
+Sample pages pulled from the app
+(images/FO76 Companion Hub.PNG)
+(images/FO76 Companion Build Sim.PNG)
+(images/FO76 Companion Daily Tracker.PNG)
+(images/FO76 Companion Carto Index.PNG)
 
 ## Additional Considerations
 
