@@ -32,13 +32,13 @@ The result is a system that reduces friction, improves decision-making, and enha
 Command line program<br/>
 Sample pages pulled from the app
 
-![hub](images/FO76%Companion%Hub.png)
+![FO76 Companion App](images/FO76%Companion%Hub.png)
 
-![sim](images/FO76%Companion%Build%Sim.png)
+![FO76 Companion App](images/FO76%Companion%Build%Sim.png)
 
-![tracker](images/FO76%Companion%Daily%Tracker.png)
+![FO76 Companion App](images/FO76%Companion%Daily%Tracker.png)
 
-![index](images/FO76%Companion%Carto%Index.png)
+![FO76 Companion App](images/FO76%Companion%Carto%Index.png)
 
 ## Additional Considerations
 
