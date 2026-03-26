@@ -31,10 +31,10 @@ The result is a system that reduces friction, improves decision-making, and enha
 
 Command line program<br/>
 Sample pages pulled from the app
-![hub](images/FO76 Companion Hub.PNG)
-![sim](images/FO76 Companion Build Sim.PNG)
-![tracker](images/FO76 Companion Daily Tracker.PNG)
-![index](images/FO76 Companion Carto Index.PNG)
+![hub](images/FO76%Companion%Hub.png)
+![sim](images/FO76%Companion%Build%Sim.png)
+![tracker](images/FO76%Companion%Daily%Tracker.png)
+![index](images/FO76%Companion%Carto%Index.png)
 
 ## Additional Considerations
 
