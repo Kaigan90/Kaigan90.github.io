@@ -39,6 +39,8 @@ Sample pages pulled from the app
 ![FO76 Companion App](images/FO76%20Companion%20Carto%20Index.png)
 
 ## Document Defense
-
+- [Final Report](Final Report.docx)
+- [Presentation](Presentation.pptx)
+- [Test Case Log](Fallout76_Test_Case_Log.xlsx)
 
 [Back to Portfolio](./)
